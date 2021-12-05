@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Welcome To RubSDev 🙋‍♂️
+
+## Ready to start 🚀
+
+### My Name Is Ruben Somuano, growing developer 👨‍💻 🌱 ❗
+
+![Alt Text](https://media.giphy.com/media/yUSO0MUNfM8dyVGL8K/giphy.gif)
